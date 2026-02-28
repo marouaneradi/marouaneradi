@@ -238,24 +238,15 @@ $ traits --list
 
 <br/>
 
-<!-- ✅ WakaTime-style contribution snake — GitHub Actions powered, 100% reliable -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marouaneradi/marouaneradi/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marouaneradi/marouaneradi/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/marouaneradi/marouaneradi/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
+<!-- ✅ Contribution chart — zero third-party dependency -->
+<img src="https://ghchart.rshah.org/00D9FF/marouaneradi" width="100%" alt="Marouane's GitHub Contributions" />
 
 <br/>
 
-<!-- ✅ Profile summary cards — separate service, more stable than readme-stats -->
+<!-- ✅ Profile summary cards -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marouaneradi&theme=tokyonight&hide_border=true" height="160em" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marouaneradi&theme=tokyonight&hide_border=true" height="160em" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marouaneradi&theme=tokyonight&hide_border=true&utcOffset=1" height="160em" />
-
-<br/>
-
-<!-- ✅ Trophies — very stable, self-hosted on Vercel -->
-<img src="https://github-profile-trophy.vercel.app/?username=marouaneradi&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" />
 
 </div>
 
