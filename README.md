@@ -14,6 +14,11 @@
 
 <br/>
 
+<!-- 🏷️ OPEN TO WORK BANNER -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=16&pause=1000&color=00FF88&background=0D111700&center=true&vCenter=true&width=700&height=35&lines=💼+OPEN+TO+WORK+—+Full-time+%7C+Freelance+%7C+Remote;📩+radimarouane05%40gmail.com+%7C+Available+Now+✅" />
+
+<br/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1200&color=00D9FF&center=true&vCenter=true&repeat=true&width=750&height=50&lines=🚀+Building+the+web%2C+one+commit+at+a+time.;⚡+React+%2B+Laravel+%2B+Clean+Architecture;🎯+Pixel-perfect+UIs.+Powerful+backends.;🌍+From+Ouarzazate%2C+Morocco+—+to+the+world.;💼+Open+to+full-time+%26+freelance+opportunities.)](https://marouaneweb.vercel.app/)
 
 <br/>
@@ -237,6 +242,11 @@ $ traits --list
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marouaneradi&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
 </div>
 <br/>
+<!-- 4️⃣ GitHub Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=marouaneradi&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
+</div>
+<br/>
 
 <!-- ✅ GitHub Activity Graph — hosted by GitHub itself, always works -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=marouaneradi&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true&radius=6" width="100%" />
@@ -244,7 +254,14 @@ $ traits --list
 <br/>
 
 <!-- ✅ Contribution chart — zero third-party dependency -->
-<img src="https://ghchart.rshah.org/00D9FF/marouaneradi" width="100%" alt="Marouane's GitHub Contributions" />
+<img src="https://ghchart.rshah.org/00D9FF/marouaneradi" width="100%" alt="Marouane's GitHub Contributions" /><br/>
+
+<!-- 🐍 CONTRIBUTION SNAKE — run GitHub Action first, see setup guide below -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marouaneradi/marouaneradi/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marouaneradi/marouaneradi/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/marouaneradi/marouaneradi/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
 
 <br/>
 
@@ -252,6 +269,20 @@ $ traits --list
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marouaneradi&theme=tokyonight&hide_border=true" height="160em" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marouaneradi&theme=tokyonight&hide_border=true" height="160em" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marouaneradi&theme=tokyonight&hide_border=true&utcOffset=1" height="160em" />
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## ⏱️ `marouane --wakatime`
+
+<div align="center">
+
+[![Waka Stats](https://github-readme-stats.vercel.app/api/wakatime?username=marouaneradi&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact&langs_count=8)](https://wakatime.com/@marouaneradi)
+
+> ⚡ **Live coding stats** — updated every day via WakaTime
 
 </div>
 
