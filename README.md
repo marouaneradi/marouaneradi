@@ -255,7 +255,11 @@ $ traits --list
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
-
+<!-- 3️⃣ GitHub Streak -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marouaneradi&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
+</div>
+<br/>
 ## 🎯 `marouane --status --now`
 
 ```bash
