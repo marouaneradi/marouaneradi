@@ -233,21 +233,29 @@ $ traits --list
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=marouaneradi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marouaneradi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
+<!-- ✅ GitHub Activity Graph — hosted by GitHub itself, always works -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=marouaneradi&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true&radius=6" width="100%" />
 
 <br/>
 
-<img width="68%" src="https://streak-stats.demolab.com/?user=marouaneradi&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=888888" />
+<!-- ✅ WakaTime-style contribution snake — GitHub Actions powered, 100% reliable -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marouaneradi/marouaneradi/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marouaneradi/marouaneradi/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/marouaneradi/marouaneradi/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
 
-<br/><br/>
+<br/>
 
-<!-- Fallback stats using github-stats-alpha (more reliable) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marouaneradi&theme=tokyonight" width="100%" />
+<!-- ✅ Profile summary cards — separate service, more stable than readme-stats -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marouaneradi&theme=tokyonight&hide_border=true" height="160em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marouaneradi&theme=tokyonight&hide_border=true" height="160em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marouaneradi&theme=tokyonight&hide_border=true&utcOffset=1" height="160em" />
 
-<br/><br/>
+<br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=marouaneradi&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+<!-- ✅ Trophies — very stable, self-hosted on Vercel -->
+<img src="https://github-profile-trophy.vercel.app/?username=marouaneradi&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" />
 
 </div>
 
