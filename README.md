@@ -319,9 +319,7 @@ $ marouane --current-focus
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31hnhgm4sq35ha4rogk4px4kp25y&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=00D9FF&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31hnhgm4sq35ha4rogk4px4kp25y&redirect=true)
-
-> ⚠️ **Setup:** Visit [spotify-github-profile.kittinanx.com](https://spotify-github-profile.kittinanx.com) → login with your Spotify → copy your UID → replace `31hnhgm4sq35ha4rogk4px4kp25y` with your own UID above.
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=pkilslobc9xbf2s0araiddb1e&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=00D9FF&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=pkilslobc9xbf2s0araiddb1e&redirect=true)
 
 </div>
 
@@ -349,9 +347,7 @@ $ marouane --current-focus
 
 <div align="center">
 
-[![Visitor Map](https://clustrmaps.com/map_v2.png?cl=0d1117&w=600&t=tt&d=YOUR_MAP_ID&co=0d1117&ct=00D9FF&cmo=3acc3a&cmn=ff5353)](https://clustrmaps.com)
-
-> ⚠️ **Setup:** Visit [clustrmaps.com](https://clustrmaps.com) → enter `https://github.com/marouaneradi` → get your free map → replace `YOUR_MAP_ID` in the URL above with your map ID.
+[![Visitor Map](https://mapmyvisitors.com/map.png?d=uHTHSFJYgypofzTves2fInjl_o4b4-MQZWmHFaIB1L0&cl=ffffff&w=600)](https://mapmyvisitors.com/web/1c2x1 "Visit tracker")
 
 </div>
 
