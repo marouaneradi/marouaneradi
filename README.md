@@ -233,12 +233,17 @@ $ traits --list
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=marouaneradi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&cache_seconds=1800" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marouaneradi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&cache_seconds=1800" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=marouaneradi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marouaneradi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=marouaneradi&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=888888" />
+<img width="68%" src="https://streak-stats.demolab.com/?user=marouaneradi&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=888888" />
+
+<br/><br/>
+
+<!-- Fallback stats using github-stats-alpha (more reliable) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marouaneradi&theme=tokyonight" width="100%" />
 
 <br/><br/>
 
