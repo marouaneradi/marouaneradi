@@ -255,11 +255,7 @@ $ traits --list
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
-<!-- 3️⃣ GitHub Streak -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marouaneradi&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
-</div>
-<br/>
+
 ## 🎯 `marouane --status --now`
 
 ```bash
@@ -289,6 +285,73 @@ $ marouane --current-focus
 |--------|------|---------|-------|
 | Jan–Feb 2026 | 🔧 Web Dev Intern | ORMVAO — Ouarzazate | `PHP` `Laravel` `MySQL` `Agile` |
 | 2024–2026 *(ongoing)* | 🎓 Web Dev Student | ISTA — Ouarzazate | `Full Stack` `React` `UX/UI` |
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## 📜 `marouane --certifications`
+
+<div align="center">
+
+| Badge | Certification | Issuer | Domain |
+|-------|--------------|--------|--------|
+| 🔒 | **Cybersecurity (CC)** | ISC² | Security |
+| 🌐 | **Web Development with HTML5** | Cisco / NDG | Frontend |
+| 🎨 | **Bootstrap — Environment & Setup** | Simplilearn | UI Framework |
+| 🗄️ | **Database Fundamentals** | Oracle Academy | Backend |
+| 🐍 | **New Developments in Python** | Cisco | Language |
+| 📋 | **Jira Cloud — Project Planning** | Atlassian | Project Mgmt |
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## 🎵 `marouane --now-playing`
+
+<div align="center">
+
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31hnhgm4sq35ha4rogk4px4kp25y&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=00D9FF&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31hnhgm4sq35ha4rogk4px4kp25y&redirect=true)
+
+> ⚠️ **Setup:** Visit [spotify-github-profile.kittinanx.com](https://spotify-github-profile.kittinanx.com) → login with your Spotify → copy your UID → replace `31hnhgm4sq35ha4rogk4px4kp25y` with your own UID above.
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## 💡 `marouane --quote --random`
+
+<div align="center">
+
+[![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote_color=00D9FF)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## 🌍 `marouane --visitors --map`
+
+<div align="center">
+
+[![Visitor Map](https://clustrmaps.com/map_v2.png?cl=0d1117&w=600&t=tt&d=YOUR_MAP_ID&co=0d1117&ct=00D9FF&cmo=3acc3a&cmn=ff5353)](https://clustrmaps.com)
+
+> ⚠️ **Setup:** Visit [clustrmaps.com](https://clustrmaps.com) → enter `https://github.com/marouaneradi` → get your free map → replace `YOUR_MAP_ID` in the URL above with your map ID.
 
 </div>
 
