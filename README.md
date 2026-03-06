@@ -27,8 +27,7 @@
 <br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=marouaneradi&style=flat-square&color=00D9FF&label=👁%20Profile+Views)
-![Repos](https://img.shields.io/badge/📁%20Public%20Repos-17-00D9FF?style=flat-square)
-![Achievement](https://img.shields.io/badge/🦈%20Achievement-Pull%20Shark-blueviolet?style=flat-square)
+
 ![Status](https://img.shields.io/badge/💼%20Status-Open%20to%20Work-brightgreen?style=flat-square)
 
 </div>
