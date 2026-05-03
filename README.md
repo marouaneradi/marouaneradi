@@ -1,7 +1,4 @@
-<p align="center">
 
-  <img src="https://image.myanimelist.net/ui/0YNGMBN7CXMEk-P9BspU4WlXmBe_SGHSnNvwDnnlOFXgoK141ZQMZGqHOwW4COUaA-H7pn7b82XhWJ6H9RN-JR2r3Ga0y_Dm6qoNuOy4HQ_5pyojYSBxN_X8qJc9uVFAVlTXjzR6-iPXyJGc-YQoGztwdaIpDG-mFRbYMwZlW_Q" height="200" />
-</p>
 <!--
 ███╗   ███╗██████╗    ██████╗  █████╗ ██████╗ ██╗
 ████╗ ████║██╔══██╗   ██╔══██╗██╔══██╗██╔══██╗██║
@@ -18,6 +15,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Marouane%20Radi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20React%20%C2%B7%20Laravel%20%C2%B7%20MySQL&descAlignY=55&descSize=16" />
 
 <br/>
+<p align="center">
+
+  <img src="https://image.myanimelist.net/ui/0YNGMBN7CXMEk-P9BspU4WlXmBe_SGHSnNvwDnnlOFXgoK141ZQMZGqHOwW4COUaA-H7pn7b82XhWJ6H9RN-JR2r3Ga0y_Dm6qoNuOy4HQ_5pyojYSBxN_X8qJc9uVFAVlTXjzR6-iPXyJGc-YQoGztwdaIpDG-mFRbYMwZlW_Q" height="200" />
+</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1200&color=00D9FF&center=true&vCenter=true&repeat=true&width=750&height=50&lines=🚀+Building+the+web%2C+one+commit+at+a+time.;⚡+React+%2B+Laravel+%2B+Clean+Architecture;🎯+Pixel-perfect+UIs.+Powerful+backends.;🌍+From+Ouarzazate%2C+Morocco+—+to+the+world.;💼+Open+to+full-time+%26+freelance+opportunities.)](https://marouaneweb.vercel.app/)
 
