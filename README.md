@@ -7,9 +7,7 @@
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝
                 github.com/marouaneradi
 -->
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+
 
 <div align="center">
 
@@ -20,7 +18,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1200&color=00D9FF&center=true&vCenter=true&repeat=true&width=750&height=50&lines=🚀+Building+the+web%2C+one+commit+at+a+time.;⚡+React+%2B+Laravel+%2B+Clean+Architecture;🎯+Pixel-perfect+UIs.+Powerful+backends.;🌍+From+Ouarzazate%2C+Morocco+—+to+the+world.;💼+Open+to+full-time+%26+freelance+opportunities.)](https://marouaneweb.vercel.app/)
 
 <br/>
-
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+<br/>
 <a href="https://marouaneweb.vercel.app/"><img src="https://img.shields.io/badge/🌐%20Portfolio-marouaneweb.vercel.app-00D9FF?style=for-the-badge&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/marouaneradi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:radimarouane05@gmail.com"><img src="https://img.shields.io/badge/Gmail-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
