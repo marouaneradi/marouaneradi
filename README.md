@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F4A7B9,D4537E&height=120&section=header"/>
 
-# Olá 👋, Bem-vindo ao meu perfil do GitHub
+# Hi 👋, Welcome to my GitHub profile
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=D4537E&size=27&center=false&lines=My+name+is+Imane+Chhibat...;Full-Stack+Web+Developer...;Problem+Solver+%26+Tech+Enthusiast...;Always+learning,+always+building..."/>
 
